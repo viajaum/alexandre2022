@@ -2,7 +2,7 @@
   "ano": 2022,
   "metadata": {
     "uf": "RS",
-    "candidato": "ALEXANDRE DUARTE LINDENMEYER",
+    "candidato": "ALEXANDRE LINDENMEYER",
     "data_processamento": "2026-04-13 11:45:51",
     "fonte": "TSE - Votação por Seção (votacao_secao_2022_RS.csv)",
     "total_votos_estado": 3803616,
@@ -14,7 +14,7 @@
       "metadata": {
         "cargo": "DEPUTADO FEDERAL",
         "numero_candidato": 1311,
-        "nome_candidato": "ALEXANDRE DUARTE LINDENMEYER"
+        "nome_candidato": "ALEXANDRE LINDENMEYER"
       },
       "RS": {
         "cargos": {
