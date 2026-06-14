@@ -2,6 +2,7 @@
   "ano": 2022,
   "metadata": {
     "uf": "RS",
+    "candidato": "ALEXANDRE DUARTE LINDENMEYER",
     "data_processamento": "2026-04-13 11:45:51",
     "fonte": "TSE - Votação por Seção (votacao_secao_2022_RS.csv)",
     "total_votos_estado": 3803616,
